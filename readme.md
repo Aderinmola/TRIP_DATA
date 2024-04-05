@@ -1,0 +1,1 @@
+This project creates an ETL pipeline, by setting up cloud resources using terraform and efficient queries using Spark for taxi trip records
