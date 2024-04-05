@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "weighty-rookery-413711",
+  "private_key_id": "bd9a65d026fab4aa98f1632bb3feb93463289383",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCfm4U9SvANNg35\nVTxhgfmgurVp/1o1WYs2/8k5H5/vxApVvu6Axjw473fkjHDQxQqvigz6YFAfzbcv\nKArG97voGbybZxGdF5w6OC5mKgtiFokwRaU2Lgi334MvYM5ycFsdGwLZJbn3SBZ/\nBs/MDt3O/WFpT53J0bN2GDBu1w0H9mYNT705J0iM6wxm8I/rK7SyLaJRYCwpZuHq\nxRfsDyjpqlIYHnDTCGZwQDZuohfuvi+wZA+qJqz+TFSk302CsYOalRuGTZ8TB29M\ntySb72oW3laTggvB6a+aQ99nuvBveEbaqCoX4DUhZMWGDAKip1OOxjt9Da9P6QVR\nVPj+kEdLAgMBAAECggEAFDv+sc0QztP2BJCaRZBZSdexzRza3l2aSSA3bf8E4zw6\nxTEeAoRfOSae0AJAAS+h0axSReG09rs5SIiuiRf6Igw1PYxdDsnh+/2IYFpfNBHA\nVbbWoZ5Ha6wx8O04bwiwfGmivE3MnD1u4K7H5EpUM3wq/9NgoSftNQEPDtZDqCkQ\n+S27kepp/rg2HW/mjuhT69UsbXkF0pcEEqhsII4nGE9H2sGv7aZhn+uoufjlEZPK\nEXRO4bRFchCbbOa2rCJ1GozYJTJIk3pTMwe9/BtmKBYCgPk0/4YKpgSUmYOOxdcP\ngBBX92OxjXSCjY6VTw1YXpWwWU5Zto2JtbDAP77liQKBgQDK5PzTf83ossJhiuWP\npEKghffRCW43CnJG550KvSO+e9vhSRa8yRGbyu9p+n/CW0bEqVYayZjpRO8W30mL\nhJrv0A6Oox9WxkuvifhjKAPwd5bXPSi1q53JWAVmkeMa6HVVWADfkmAyOnyUfx4v\n2n4MJ5hbboDPLVzkHBj3r+i7MwKBgQDJYhMEWzQ/ugvs0rTd5Zw5V5sSkRgMFnDl\nN50cuoEAo0Da9EuzAwGk8C36DRSLc4zAMwbcBuzYX3/7X0ExRisfF1NdqsQ8MrNR\nCvw5i+kQSt18kJOp9xU39Fg+EwPe6akhwgHkb0uSR7swyz4H2d+QZf272mUok5aV\nDahnJ+ODiQKBgEVc9YZEyhtEiamZN5Pc3x5LzoX7SF+uxZSx+AFE2iRz6Z7iQtC1\nmLx/K0w65FSIqe/vyE0OIKWW+HoESftVkTZtFZzz7XHYBuXzMCSN+JLL/5iEAxfg\nnOfJnMcNFuwLDpnnpRzJyPNDBXYq4yIO+0qiera/V2/8nSYq6Oo8jD77AoGAN9Id\nn1mAlCGH6K9HPzLEKQjljTH2znLx/Dd8L1hrJbga5BZPXWF59TQ2Klex2C3BWA1M\n23R39koSeaUftv7SOR4IF7CcEGulVNOMso7bnY6C8mJI7BX3JblvNFWk/wcZwKe8\nSounEPcdJhtQKHD2DVqYCJgy7hpq5QoSIfXmlLECgYAUgUyJtxwhJf//ka1FmMyX\n9GW1qSH6mbkYOHqfa6Y9y7I9hctDCUoCTQhybjm/OtXOnWxmo5SP2FVz4CjKeoWs\nm7nCkYYWUBSXSRkuTMd6mGN131BeZ8hmXhsLQPN4OabVoWBkhMiSG5iR/4nX4qUN\nUyjb4kBni8MkPdKnyHGANQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "fave-camp@weighty-rookery-413711.iam.gserviceaccount.com",
+  "client_id": "108636309177211261050",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fave-camp%40weighty-rookery-413711.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
